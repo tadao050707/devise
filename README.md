@@ -1,7 +1,6 @@
 ![Devise Logo](https://raw.github.com/heartcombo/devise/main/devise.png)
 
-Devise is a flexible authentication solution for Rails based on ???
-
+Devise is a flexible authentication solution for Rails based on !!!!!!
 * Is Rack based;
 * Is a complete MVC solution based on Rails
 * Allows you to have multiple models signed in at the same time;
